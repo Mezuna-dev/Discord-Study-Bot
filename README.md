@@ -1,1 +1,1 @@
-# Discord-Bot-Project
+# Discord-Study-Bot
